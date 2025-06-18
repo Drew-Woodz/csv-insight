@@ -1,0 +1,501 @@
+id,score,passed,notes
+1,82,True,average
+2,64,False,needs improvement
+3,65,True,
+4,83,True,
+5,55,True,needs improvement
+6,94,False,average
+7,77,True,
+8,70,True,good
+9,96,False,needs improvement
+10,53,True,average
+11,100,True,average
+12,62,True,good
+13,100,True,average
+14,61,False,good
+15,92,False,average
+16,68,False,average
+17,74,False,good
+18,74,True,
+19,65,True,needs improvement
+20,63,False,needs improvement
+21,82,False,average
+22,84,False,average
+23,77,False,average
+24,82,True,average
+25,53,True,good
+26,54,True,
+27,63,True,average
+28,65,True,good
+29,92,False,average
+30,51,True,good
+31,80,False,average
+32,96,False,needs improvement
+33,90,True,good
+34,76,False,
+35,89,True,needs improvement
+36,96,True,needs improvement
+37,84,True,average
+38,50,False,good
+39,88,True,average
+40,90,True,needs improvement
+41,68,True,average
+42,65,True,good
+43,84,False,
+44,89,True,
+45,81,False,good
+46,56,False,good
+47,74,False,
+48,64,False,good
+49,76,False,needs improvement
+50,89,False,good
+51,91,False,average
+52,68,False,good
+53,92,False,good
+54,63,True,good
+55,67,False,good
+56,60,False,good
+57,70,False,needs improvement
+58,78,True,average
+59,53,True,average
+60,74,True,
+61,72,True,average
+62,75,False,average
+63,74,False,needs improvement
+64,95,False,needs improvement
+65,93,False,average
+66,80,False,needs improvement
+67,96,False,needs improvement
+68,51,False,needs improvement
+69,54,False,
+70,91,True,good
+71,55,True,good
+72,81,False,needs improvement
+73,97,True,good
+74,75,True,needs improvement
+75,96,False,average
+76,94,True,
+77,91,True,
+78,87,False,good
+79,61,True,average
+80,84,True,
+81,75,True,good
+82,78,False,average
+83,83,False,needs improvement
+84,53,False,average
+85,52,False,
+86,58,True,good
+87,88,True,average
+88,94,True,average
+89,52,False,average
+90,88,True,good
+91,66,False,good
+92,90,True,
+93,64,True,
+94,70,False,average
+95,62,False,
+96,53,False,good
+97,70,True,average
+98,55,False,good
+99,55,False,
+100,54,False,good
+101,78,True,good
+102,57,True,
+103,64,False,average
+104,74,True,needs improvement
+105,83,True,needs improvement
+106,79,False,
+107,63,True,average
+108,84,True,average
+109,65,True,average
+110,84,True,good
+111,75,False,good
+112,85,True,good
+113,69,True,good
+114,50,False,average
+115,97,True,good
+116,88,True,
+117,95,True,good
+118,82,False,needs improvement
+119,73,True,
+120,70,True,average
+121,71,True,average
+122,73,False,
+123,98,False,needs improvement
+124,80,False,good
+125,93,True,
+126,93,False,
+127,50,True,
+128,100,True,
+129,62,True,good
+130,92,False,needs improvement
+131,78,True,needs improvement
+132,56,True,needs improvement
+133,82,True,average
+134,54,True,average
+135,97,True,needs improvement
+136,99,False,good
+137,68,True,average
+138,69,False,needs improvement
+139,63,False,needs improvement
+140,84,False,needs improvement
+141,65,True,good
+142,50,False,needs improvement
+143,74,False,good
+144,80,False,average
+145,67,True,
+146,64,False,needs improvement
+147,61,False,average
+148,89,False,good
+149,67,False,average
+150,91,True,average
+151,73,True,
+152,94,True,
+153,57,True,average
+154,66,False,needs improvement
+155,53,True,good
+156,62,True,needs improvement
+157,69,True,
+158,66,True,good
+159,71,True,good
+160,63,False,needs improvement
+161,65,False,good
+162,97,True,average
+163,69,True,
+164,70,True,needs improvement
+165,88,False,
+166,69,True,needs improvement
+167,97,False,
+168,80,True,
+169,64,False,
+170,83,True,
+171,59,True,needs improvement
+172,89,False,average
+173,68,False,needs improvement
+174,50,False,
+175,51,True,average
+176,54,False,
+177,65,True,average
+178,89,True,good
+179,72,True,
+180,66,False,
+181,58,True,good
+182,58,True,
+183,50,False,
+184,82,True,average
+185,94,True,good
+186,84,True,good
+187,62,False,needs improvement
+188,79,True,good
+189,62,True,good
+190,85,True,needs improvement
+191,73,False,needs improvement
+192,53,True,
+193,71,False,good
+194,76,True,average
+195,64,False,average
+196,87,True,
+197,88,True,average
+198,92,True,needs improvement
+199,65,True,average
+200,91,True,average
+201,72,False,needs improvement
+202,83,True,
+203,72,True,
+204,83,False,average
+205,71,True,good
+206,53,False,average
+207,71,True,good
+208,75,False,needs improvement
+209,60,False,average
+210,64,False,needs improvement
+211,91,True,
+212,55,False,good
+213,95,False,needs improvement
+214,78,True,needs improvement
+215,95,False,good
+216,55,True,good
+217,61,False,average
+218,75,False,good
+219,87,False,average
+220,78,False,good
+221,95,True,
+222,97,False,needs improvement
+223,99,True,average
+224,89,False,
+225,66,False,needs improvement
+226,82,False,average
+227,56,True,
+228,98,True,average
+229,51,False,needs improvement
+230,81,True,
+231,90,True,needs improvement
+232,94,True,needs improvement
+233,73,True,needs improvement
+234,73,True,good
+235,98,False,good
+236,60,True,good
+237,84,True,good
+238,88,False,average
+239,93,False,
+240,93,True,average
+241,77,True,good
+242,55,True,
+243,66,True,needs improvement
+244,96,False,average
+245,71,True,average
+246,78,True,average
+247,84,True,
+248,69,False,needs improvement
+249,62,False,average
+250,50,False,average
+251,51,False,needs improvement
+252,99,False,needs improvement
+253,99,False,good
+254,64,False,good
+255,79,True,
+256,51,True,needs improvement
+257,78,False,needs improvement
+258,76,True,good
+259,74,False,
+260,71,False,
+261,80,False,good
+262,92,True,good
+263,95,True,
+264,50,False,good
+265,60,False,average
+266,57,True,
+267,83,True,
+268,70,False,needs improvement
+269,50,True,
+270,93,False,
+271,87,True,average
+272,88,False,good
+273,70,True,average
+274,74,False,needs improvement
+275,96,True,needs improvement
+276,56,True,good
+277,58,True,
+278,100,False,
+279,71,True,
+280,81,False,average
+281,65,False,good
+282,55,False,needs improvement
+283,74,True,needs improvement
+284,51,True,good
+285,53,True,average
+286,51,True,good
+287,59,True,
+288,87,False,needs improvement
+289,90,False,needs improvement
+290,78,False,average
+291,79,False,
+292,66,True,average
+293,79,True,good
+294,84,False,
+295,86,False,
+296,58,False,
+297,83,False,average
+298,55,False,good
+299,97,True,average
+300,99,False,
+301,80,False,
+302,96,True,good
+303,90,True,
+304,86,False,needs improvement
+305,84,False,good
+306,92,False,average
+307,74,True,needs improvement
+308,62,True,
+309,50,False,good
+310,82,False,needs improvement
+311,60,False,good
+312,69,False,needs improvement
+313,82,True,average
+314,80,False,average
+315,88,False,good
+316,52,True,
+317,51,False,average
+318,80,False,needs improvement
+319,74,True,needs improvement
+320,58,True,good
+321,56,True,good
+322,73,True,
+323,62,True,needs improvement
+324,82,False,
+325,98,False,
+326,95,False,good
+327,53,True,needs improvement
+328,51,False,
+329,77,False,average
+330,51,True,needs improvement
+331,63,True,needs improvement
+332,61,False,needs improvement
+333,100,True,good
+334,74,True,needs improvement
+335,55,True,
+336,68,True,good
+337,80,False,average
+338,76,True,average
+339,51,False,good
+340,87,False,average
+341,52,False,average
+342,52,False,
+343,72,True,needs improvement
+344,57,False,needs improvement
+345,98,True,needs improvement
+346,58,False,good
+347,61,True,needs improvement
+348,70,True,needs improvement
+349,75,False,good
+350,92,False,
+351,75,False,good
+352,94,False,good
+353,82,True,average
+354,68,False,good
+355,79,True,average
+356,67,True,
+357,97,True,
+358,94,False,needs improvement
+359,67,True,average
+360,52,False,needs improvement
+361,58,True,
+362,50,False,
+363,58,True,
+364,86,True,
+365,75,False,
+366,66,True,needs improvement
+367,81,False,average
+368,70,True,average
+369,64,True,
+370,70,True,average
+371,56,False,needs improvement
+372,97,True,
+373,89,False,good
+374,53,True,needs improvement
+375,67,True,average
+376,91,False,good
+377,70,False,needs improvement
+378,92,True,
+379,52,True,average
+380,55,False,needs improvement
+381,81,False,good
+382,76,True,average
+383,100,True,needs improvement
+384,68,True,needs improvement
+385,77,True,needs improvement
+386,64,False,good
+387,51,True,good
+388,62,True,good
+389,95,True,good
+390,90,True,good
+391,84,False,good
+392,72,False,good
+393,71,False,needs improvement
+394,67,False,
+395,60,True,average
+396,61,True,
+397,87,False,needs improvement
+398,74,False,average
+399,78,True,good
+400,69,False,average
+401,82,False,
+402,98,False,average
+403,58,True,needs improvement
+404,54,False,
+405,100,False,good
+406,66,True,good
+407,90,False,good
+408,88,True,needs improvement
+409,67,True,good
+410,76,True,
+411,94,True,average
+412,84,False,good
+413,76,False,average
+414,99,True,
+415,63,True,needs improvement
+416,71,True,
+417,74,True,needs improvement
+418,69,True,
+419,69,False,average
+420,100,False,good
+421,86,True,average
+422,86,False,average
+423,52,True,good
+424,75,False,
+425,65,False,average
+426,70,True,needs improvement
+427,82,False,average
+428,91,True,
+429,51,True,
+430,79,False,good
+431,83,False,good
+432,74,True,average
+433,89,False,average
+434,70,True,
+435,53,True,average
+436,93,True,average
+437,64,False,needs improvement
+438,52,False,needs improvement
+439,56,True,
+440,53,False,needs improvement
+441,66,True,
+442,65,True,average
+443,70,True,needs improvement
+444,50,True,
+445,74,False,good
+446,81,False,average
+447,69,False,needs improvement
+448,78,False,good
+449,58,False,needs improvement
+450,70,True,good
+451,99,False,needs improvement
+452,84,False,average
+453,99,True,average
+454,60,False,good
+455,69,True,needs improvement
+456,61,True,average
+457,51,True,good
+458,72,False,
+459,88,True,
+460,89,True,good
+461,54,True,
+462,92,True,good
+463,89,True,average
+464,84,False,
+465,76,True,average
+466,59,False,
+467,63,False,needs improvement
+468,57,True,
+469,98,True,average
+470,69,False,average
+471,54,True,average
+472,86,False,needs improvement
+473,78,False,needs improvement
+474,91,True,needs improvement
+475,97,False,needs improvement
+476,68,True,needs improvement
+477,86,True,average
+478,52,True,needs improvement
+479,51,False,needs improvement
+480,72,True,needs improvement
+481,84,False,average
+482,57,False,needs improvement
+483,82,True,needs improvement
+484,67,False,needs improvement
+485,63,False,average
+486,59,True,
+487,98,False,average
+488,74,True,good
+489,56,False,
+490,50,True,average
+491,90,True,needs improvement
+492,58,False,needs improvement
+493,78,True,needs improvement
+494,83,True,average
+495,79,True,good
+496,96,False,good
+497,88,False,needs improvement
+498,63,False,
+499,81,True,good
+500,60,True,good
